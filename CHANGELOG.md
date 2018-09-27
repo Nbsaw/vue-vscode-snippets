@@ -13,3 +13,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 * Add nuxt and dist to .gitignore
 * Add in testing snippet
 * Make component imports consistent
+
+## [1.4.0]
+
+* Modify Css Scoped to Scss Scoped

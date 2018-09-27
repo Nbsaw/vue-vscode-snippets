@@ -16,15 +16,13 @@ _Current version: Vue2_
 
 _Either_
 
-* click the extensions button (lowest square icon in the editor), and type in Vue VSCode Snippets, select the one by sdras
+* first clone this project
 
-_or_
-
-* go here [vscode Extensions Marketplace](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
-
-```javascript
-ext install Vue VSCode Snippets
+``` shell
+https://github.com/Nbsaw/vue-vscode-snippets.git
 ```
+
+* click the extensions button (lowest square icon in the editor), and type in Vue VSCode Snippets, select the one by sdras
 
 You can enable tab completion (recommended) by opening `Code > Preferences > Settings` (on a Mac) and applying `"editor.tabCompletion": true` to your personal settings
 

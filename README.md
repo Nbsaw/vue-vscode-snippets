@@ -14,17 +14,9 @@ _Current version: Vue2_
 
 ## Installation
 
-_Either_
+* First clone the [lastest release](https://github.com/Nbsaw/vue-vscode-snippets/releases)
 
-* first clone this project
-
-``` shell
-https://github.com/Nbsaw/vue-vscode-snippets.git
-```
-
-* click the extensions button (lowest square icon in the editor), and type in Vue VSCode Snippets, select the one by sdras
-
-You can enable tab completion (recommended) by opening `Code > Preferences > Settings` (on a Mac) and applying `"editor.tabCompletion": true` to your personal settings
+* Then go to vscode and click extensions , just click `install from VSIX `
 
 ## Snippets
 

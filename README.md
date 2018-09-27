@@ -14,7 +14,7 @@ _Current version: Vue2_
 
 ## Installation
 
-* First clone the [lastest release](https://github.com/Nbsaw/vue-vscode-snippets/releases)
+* First download the [lastest release](https://github.com/Nbsaw/vue-vscode-snippets/releases)
 
 * Then go to vscode and click extensions , just click `install from VSIX `
 
